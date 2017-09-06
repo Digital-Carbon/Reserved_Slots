@@ -8,7 +8,9 @@ Modified by [GADD]Monkeynutz
 It's really simple.
 Drop or merge the custom folder into your mission folder so that there is a reserved_slots folder inside of custom which 
 will contain the slots.sqf (Exile.Mapname)
+
 Put this into the init.sqf (If you don't have one, make a new one.)
+
 [] execVM "custom\reserved_slots\slots.sqf";
 
 Add UIDs to the list in the slots.sqf and modify the reserved slots amount by changing the total number of slots in 
