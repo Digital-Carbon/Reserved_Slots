@@ -13,6 +13,8 @@ Put this into the init.sqf (If you don't have one, make a new one.)
 
 [] execVM "custom\reserved_slots\slots.sqf";
 
+Now edit slots.sqf with the following info:
+
 Add UIDs to the list in the slots.sqf and modify the reserved slots amount by changing the total number of slots in 
 your server to match your setup and then how many slots you want to be reserved for people.
 e.g. you have 50 slots and want 5 reserved:
