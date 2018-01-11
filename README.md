@@ -1,5 +1,7 @@
 # Reserved_Slots
-A little script that kicks players in reserved slots. Great if you are a busy server and need admin slots.
+## A little script that kicks players in reserved slots. Great if you are a busy server and need admin slots.
+
+Join my Discord at http://discord.gamingatdeathsdoor.com if you have any problems.
 
 Original by TheMeq.
 
